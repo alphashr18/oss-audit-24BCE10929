@@ -1,15 +1,15 @@
 #!/bin/bash
 # ==============================================================================================
 # Script 1: System Identity Report
-# Author   : Tanmay Joshi
-# Reg No   : 24BCE10381
+# Author   : SHREYASH PAWAR
+# Reg No   : 24BCE10929
 # Course   : Open Source Software (OSS NGMC)
 # Chosen   : MySQL
 # Purpose  : Displays a welcome screen with key system information about the Linux environment.
 # ===============================================================================================
 
-STUDENT_NAME="Tanmay Joshi"
-REG_NO="24BCE10381"
+STUDENT_NAME="SHREYASH PAWAR"
+REG_NO="24BCE10929"
 SOFTWARE_CHOICE="MySQL"
 
 # Command substitution $() runs a command and collect output
