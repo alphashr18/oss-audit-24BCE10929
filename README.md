@@ -95,7 +95,7 @@ It saves the output to a `.txt` file and displays it on screen.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/alphashr18/oss-audit-24BCE10929
+git clone  https://github.com/alphashr18/oss-audit-24BCE10929
 ```
 
 ### Step 2: Make All Scripts Executable
