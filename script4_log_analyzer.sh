@@ -1,8 +1,8 @@
 #!/bin/bash
 # ============================================================
 # Script 4: Log File Analyzer
-# Author   : Tanmay Joshi
-# Reg No   : 24BCE10381
+# Author   : SHREYASH PAWAR
+# Reg No   : 24BCE10929
 # Course   : Open Source Software (OSS NGMC)
 # Chosen   : MySQL
 # Purpose  : Reads a log file line by line, counts keyword
