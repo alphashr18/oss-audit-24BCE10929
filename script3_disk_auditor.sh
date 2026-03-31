@@ -1,8 +1,8 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author   : Tanmay Joshi
-# Reg No   : 24BCE10381
+# Author   : SHREYASH PAWAR
+# Reg No   : 24BCE10929
 # Course   : Open Source Software (OSS NGMC)
 # Chosen   : MySQL
 # Purpose  : Loops through key Linux system directories and
